@@ -1,0 +1,42 @@
+.figure_style{
+    width:400px;
+    height:120px;
+    border: 12px solid blue;
+    background-color: orange;
+    border-top-left-radius: 60px 90px;
+    border-bottom-right-radius: 60px 90px;
+    box-shadow: 25x 30px 15px 1px rgba(0,0,0,0.4),
+                   12px 12px 0px 8px rgba(0,0,0,0.4) inset;
+          -moz-box-shadow: 25px 30px 15px 1px rgba(0,0,0,0.4),
+                   12px 12px 0px 8px rgba(0,0,0,0.4) inset;
+    -webkit-box-shadow: 25px 30px 15px 1px rgba(0,0,0,0.4),
+                    12px 12px 0px 8px rgba(0,0,0,0.4) inset;
+    padding: 5px 20px;
+}
+
+
+.dog_figure {
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5),
+                inset 5px 5px 8px rgba(0,0,0,0.5);
+}
+h3{
+   text-align:center;
+   margin-left:10px;
+   font-style: italic;
+}
+h1{
+    color:white;
+}
+.Img{
+    width:450px;
+    height:450px
+}
+.more_photos {
+   
+    font-size:1em;
+    font-weight:bold;
+    color: red;
+    text-decoration:none;
+
+}
